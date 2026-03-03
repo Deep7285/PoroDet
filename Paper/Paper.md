@@ -1,11 +1,13 @@
 ---
-title: "PoroDet: Deep learning based detection and quantification of features in TEM images"
+title: "PoroDet: A Deep learning based detection and quantification of features in TEM images"
 tags:
   - Python
   - electron microscopy
   - TEM
   - image segmentation
   - deep learning
+  - Computer Vision 
+  - Image Processing
 authors:
   - name: Rajat Nama
     affiliation: 1
