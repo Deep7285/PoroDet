@@ -1,6 +1,6 @@
 # PoroDet: Nano-porosity detection in TEM images using U-Net and computer vision
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19342742.svg)](https://doi.org/10.5281/zenodo.19342742)
+[![DOI](https://zenodo.org/badge/1095762451.svg)](https://doi.org/10.5281/zenodo.19342741)
 
 **PoroDet** is a Python package for the contrast-based detection and analysis of nanoporosities in Fresnel-contrast transmission electron microscopy (TEM) images. It utilizes a U-Net convolutional neural network (CNN) to segment and quantify pores and cracks.
 
